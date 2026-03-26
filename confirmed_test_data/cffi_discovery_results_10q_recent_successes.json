@@ -1,0 +1,1417 @@
+[
+  {
+    "company": "WALMART INC",
+    "root_url": "http://corporate.walmart.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://corporate.walmart.com",
+      "https://stock.walmart.com/investors/default.aspx",
+      "https://stock.walmart.com/sec-filings/quarterly-reports",
+      "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000191/wmt-20251031.htm"
+    ],
+    "doc_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000191/wmt-20251031.htm"
+  },
+  {
+    "company": "JPMORGAN CHASE & CO.",
+    "root_url": "http://www.jpmorganchase.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.jpmorganchase.com",
+      "http://www.jpmorganchase.com/ir",
+      "http://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2025/3rd-quarter/corp-q3-2025.pdf"
+    ],
+    "doc_url": "http://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2025/3rd-quarter/corp-q3-2025.pdf"
+  },
+  {
+    "company": "EXXON MOBIL CORP",
+    "root_url": "http://corporate.exxonmobil.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://corporate.exxonmobil.com",
+      "https://investor.exxonmobil.com/",
+      "https://investor.exxonmobil.com/sec-filings/quarterly-reports",
+      "https://investor.exxonmobil.com/sec-filings/quarterly-reports/content/0000034088-24-000050/0000034088-24-000050.pdf"
+    ],
+    "doc_url": "https://investor.exxonmobil.com/sec-filings/quarterly-reports/content/0000034088-24-000050/0000034088-24-000050.pdf"
+  },
+  {
+    "company": "HOME DEPOT INC",
+    "root_url": "http://www.homedepot.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://ir.homedepot.com",
+      "https://ir.homedepot.com",
+      "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/2025/hd-q3-2025-10q.pdf"
+    ],
+    "doc_url": "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/2025/hd-q3-2025-10q.pdf"
+  },
+  {
+    "company": "COCA-COLA CO",
+    "root_url": "http://www.coca-colacompany.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.coca-colacompany.com",
+      "https://investors.coca-colacompany.com/",
+      "https://investors.coca-colacompany.com/filings-reports/quarterly-filings-10-q",
+      "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-25-046054/ko-20250926.htm"
+    ],
+    "doc_url": "https://investors.coca-colacompany.com/filings-reports/all-sec-filings/content/0001628280-25-046054/ko-20250926.htm"
+  },
+  {
+    "company": "ABBVIE INC",
+    "root_url": "http://www.abbvie.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investors.abbvie.com",
+      "https://investors.abbvie.com",
+      "https://investors.abbvie.com/sec-filings",
+      "https://investors.abbvie.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investors.abbvie.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://investors.abbvie.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "https://investors.abbvie.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=4",
+      "https://investors.abbvie.com/static-files/57a7b497-8347-44eb-a871-25ba84079fe1"
+    ],
+    "doc_url": "https://investors.abbvie.com/static-files/57a7b497-8347-44eb-a871-25ba84079fe1"
+  },
+  {
+    "company": "CISCO SYSTEMS INCORPORATED",
+    "root_url": "http://www.cisco.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.cisco.com",
+      "http://www.cisco.com/site/us/en/about/index.html",
+      "https://investor.cisco.com/home/default.aspx",
+      "https://investor.cisco.com/files/doc_financials/2026/q2/ac19bfc8-b091-48d9-be7b-1ffd74e455a1.pdf"
+    ],
+    "doc_url": "https://investor.cisco.com/files/doc_financials/2026/q2/ac19bfc8-b091-48d9-be7b-1ffd74e455a1.pdf"
+  },
+  {
+    "company": "WELLS FARGO & COMPANY",
+    "root_url": "http://www.wellsfargo.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.wellsfargo.com",
+      "http://www.wellsfargo.com/about/",
+      "http://www.wellsfargo.com/about/investor-relations/",
+      "http://www.wellsfargo.com/about/investor-relations/filings/",
+      "http://www.wellsfargo.com/assets/pdf/about/investor-relations/sec-filings/2025/third-quarter-10q.pdf"
+    ],
+    "doc_url": "http://www.wellsfargo.com/assets/pdf/about/investor-relations/sec-filings/2025/third-quarter-10q.pdf"
+  },
+  {
+    "company": "MORGAN STANLEY",
+    "root_url": "http://www.morganstanley.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.morganstanley.com",
+      "http://www.morganstanley.com/about-us-ir",
+      "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/10q0925.pdf"
+    ],
+    "doc_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/10q0925.pdf"
+  },
+  {
+    "company": "RTX CORP",
+    "root_url": "http://www.rtx.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.rtx.com",
+      "https://investors.rtx.com/",
+      "https://investors.rtx.com/financial-information/sec-filings",
+      "https://investors.rtx.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://investors.rtx.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://investors.rtx.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://investors.rtx.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=4",
+      "https://investors.rtx.com/static-files/9dc6df0c-e062-4da0-a2ab-f9d560e25a83"
+    ],
+    "doc_url": "https://investors.rtx.com/static-files/9dc6df0c-e062-4da0-a2ab-f9d560e25a83"
+  },
+  {
+    "company": "UNITEDHEALTH GROUP INC",
+    "root_url": "http://www.unitedhealthgroup.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.unitedhealthgroup.com",
+      "http://www.unitedhealthgroup.com/investors.html",
+      "https://www.unitedhealthgroup.com/investors/financial-reports.html",
+      "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/UNH-Q3-2025-form-10-q.pdf"
+    ],
+    "doc_url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/UNH-Q3-2025-form-10-q.pdf"
+  },
+  {
+    "company": "PEPSICO INC",
+    "root_url": "http://www.pepsico.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.pepsico.com",
+      "http://www.pepsico.com/investors",
+      "http://www.pepsico.com/investors/annual-reports-proxy-information",
+      "https://www.pepsico.com/investors",
+      "https://www.pepsico.com/investors/earnings",
+      "https://www.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q3-2025-form-10q.pdf"
+    ],
+    "doc_url": "https://www.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q3-2025-form-10q.pdf"
+  },
+  {
+    "company": "GE VERNOVA INC",
+    "root_url": "http://www.gevernova.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.gevernova.com",
+      "https://www.gevernova.com/investors",
+      "https://www.gevernova.com/investors/reports-filings",
+      "https://www.gevernova.com/sites/default/files/gev_webcast_10q_10222025.pdf"
+    ],
+    "doc_url": "https://www.gevernova.com/sites/default/files/gev_webcast_10q_10222025.pdf"
+  },
+  {
+    "company": "CITIGROUP INC.",
+    "root_url": "http://www.citigroup.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.citigroup.com",
+      "http://www.citigroup.com/global/investors/quarterly-earnings",
+      "http://www.citigroup.com/global/investors",
+      "http://www.citigroup.com/global/investors",
+      "http://www.citigroup.com/global/investors/sec-filings",
+      "http://www.citigroup.com/rcs/citigpa/storage/public/citigroup-inc-3q-2025-10-q.pdf"
+    ],
+    "doc_url": "http://www.citigroup.com/rcs/citigpa/storage/public/citigroup-inc-3q-2025-10-q.pdf"
+  },
+  {
+    "company": "VERIZON COMMUNICATIONS",
+    "root_url": "http://www.verizon.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.verizon.com",
+      "https://www.verizon.com/about",
+      "https://www.verizon.com/about/investors",
+      "https://quotes.quotemedia.com/data/downloadFiling?webmasterId=104600&type=HTML&ref=319535389"
+    ],
+    "doc_url": "https://quotes.quotemedia.com/data/downloadFiling?webmasterId=104600&type=HTML&ref=319535389"
+  },
+  {
+    "company": "TEXAS INSTRUMENTS INCORPORATED",
+    "root_url": "http://www.ti.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.ti.com",
+      "https://investor.ti.com/",
+      "https://investor.ti.com/financial-information/sec-filings",
+      "https://investor.ti.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://investor.ti.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://investor.ti.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://investor.ti.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=4",
+      "https://investor.ti.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=5",
+      "https://investor.ti.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=6",
+      "https://investor.ti.com/sec-filings/sec-filing/10-q/0000097476-25-000060"
+    ],
+    "doc_url": "https://investor.ti.com/sec-filings/sec-filing/10-q/0000097476-25-000060"
+  },
+  {
+    "company": "AMGEN INC",
+    "root_url": "http://www.amgen.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.amgen.com",
+      "http://investors.amgen.com/",
+      "http://investors.amgen.com/financials/sec-filings",
+      "http://investors.amgen.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "http://investors.amgen.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "http://investors.amgen.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "http://investors.amgen.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=4",
+      "https://investors.amgen.com/static-files/669f2715-17ee-48d1-ba86-b9df45620bda"
+    ],
+    "doc_url": "https://investors.amgen.com/static-files/669f2715-17ee-48d1-ba86-b9df45620bda"
+  },
+  {
+    "company": "KLA CORP",
+    "root_url": "http://www.kla.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.kla.com",
+      "https://ir.kla.com/",
+      "https://ir.kla.com/sec-filings/all-sec-filings/content/0000319201-26-000008/0000319201-26-000008.pdf"
+    ],
+    "doc_url": "https://ir.kla.com/sec-filings/all-sec-filings/content/0000319201-26-000008/0000319201-26-000008.pdf"
+  },
+  {
+    "company": "CHARLES SCHWAB CORP",
+    "root_url": "http://www.schwab.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.schwab.com",
+      "https://www.aboutschwab.com/",
+      "https://www.aboutschwab.com/investor-relations",
+      "https://www.aboutschwab.com/financial-reports",
+      "https://content.schwab.com/web/retail/public/about-schwab/SEC_Form10Q_093025.pdf"
+    ],
+    "doc_url": "https://content.schwab.com/web/retail/public/about-schwab/SEC_Form10Q_093025.pdf"
+  },
+  {
+    "company": "TJX COMPANIES INC",
+    "root_url": "http://www.tjx.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.tjx.com",
+      "https://investor.tjx.com/investors",
+      "https://investor.tjx.com/investors/financial-information/sec-filings",
+      "https://investor.tjx.com/investors/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.tjx.com/static-files/286f1e49-b533-4395-b3d3-aa2bdb8db2ca"
+    ],
+    "doc_url": "https://investor.tjx.com/static-files/286f1e49-b533-4395-b3d3-aa2bdb8db2ca"
+  },
+  {
+    "company": "ANALOG DEVICES INCORPORATED",
+    "root_url": "http://www.analog.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.analog.com",
+      "https://www.analog.com/en/about-adi/investor-relations.html",
+      "https://www.analog.com/en/about-adi/investor-relations.html",
+      "https://www.analog.com/static-files/c11794cb-2753-4900-8663-be7b32a6a306"
+    ],
+    "doc_url": "https://www.analog.com/static-files/c11794cb-2753-4900-8663-be7b32a6a306"
+  },
+  {
+    "company": "LOCKHEED MARTIN CORPORATION",
+    "root_url": "http://www.lockheedmartin.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.lockheedmartin.com",
+      "https://investors.lockheedmartin.com/",
+      "https://investors.lockheedmartin.com/financial-information/sec-filings",
+      "https://investors.lockheedmartin.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investors.lockheedmartin.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://investors.lockheedmartin.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "https://investors.lockheedmartin.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=4",
+      "https://investors.lockheedmartin.com/static-files/7ba65256-ce70-4b4a-a8d1-6625149cba4d"
+    ],
+    "doc_url": "https://investors.lockheedmartin.com/static-files/7ba65256-ce70-4b4a-a8d1-6625149cba4d"
+  },
+  {
+    "company": "PROLOGIS INC",
+    "root_url": "http://www.prologis.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.prologis.com",
+      "https://ir.prologis.com",
+      "https://ir.prologis.com/financials/sec-filings",
+      "https://ir.prologis.com/financials/sec-filings?page=2",
+      "https://ir.prologis.com/financials/sec-filings?page=3",
+      "https://ir.prologis.com/financials/sec-filings?page=4",
+      "https://ir.prologis.com/financials/sec-filings/content/0001193125-25-253512/0001193125-25-253512.pdf"
+    ],
+    "doc_url": "https://ir.prologis.com/financials/sec-filings/content/0001193125-25-253512/0001193125-25-253512.pdf"
+  },
+  {
+    "company": "INTUIT INC",
+    "root_url": "http://www.intuit.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.intuit.com",
+      "https://investors.intuit.com/",
+      "https://investors.intuit.com/sec-filings/all-sec-filings/content/0000896878-26-000014/0000896878-26-000014.pdf"
+    ],
+    "doc_url": "https://investors.intuit.com/sec-filings/all-sec-filings/content/0000896878-26-000014/0000896878-26-000014.pdf"
+  },
+  {
+    "company": "PARKER-HANNIFIN CORP",
+    "root_url": "http://www.parker.com/us/en/home.html",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investors.parker.com",
+      "https://investors.parker.com",
+      "https://investors.parker.com/sec-filings/all-sec-filings/content/0000076334-26-000008/0000076334-26-000008.pdf"
+    ],
+    "doc_url": "https://investors.parker.com/sec-filings/all-sec-filings/content/0000076334-26-000008/0000076334-26-000008.pdf"
+  },
+  {
+    "company": "MCKESSON CORPORATION",
+    "root_url": "http://www.mckesson.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.mckesson.com",
+      "https://investor.mckesson.com/overview/default.aspx",
+      "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000927653/7bcf0c65-9f7f-4290-801c-b4baed17aa7f.pdf"
+    ],
+    "doc_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000927653/7bcf0c65-9f7f-4290-801c-b4baed17aa7f.pdf"
+  },
+  {
+    "company": "PALO ALTO NETWORKS INC",
+    "root_url": "http://www.paloaltonetworks.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.paloaltonetworks.com",
+      "https://investors.paloaltonetworks.com/",
+      "https://investors.paloaltonetworks.com/financial-information/sec-filings",
+      "https://investors.paloaltonetworks.com/static-files/0787b684-1432-4387-89b3-50365a59f40f"
+    ],
+    "doc_url": "https://investors.paloaltonetworks.com/static-files/0787b684-1432-4387-89b3-50365a59f40f"
+  },
+  {
+    "company": "UNITED PARCEL SERVICE, INC.",
+    "root_url": "http://www.ups.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.ups.com",
+      "https://about.ups.com/us/en/our-stories/customer-first/see-how-ups-delivers-for-one-luxury-bag-brand-crafted-by-african.html",
+      "https://investors.ups.com",
+      "https://investors.ups.com/sec-filings",
+      "https://investors.ups.com/sec-filings/quarterly-filings",
+      "https://investors.ups.com/sec-filings/quarterly-filings/content/0001628280-25-049661/0001628280-25-049661.pdf"
+    ],
+    "doc_url": "https://investors.ups.com/sec-filings/quarterly-filings/content/0001628280-25-049661/0001628280-25-049661.pdf"
+  },
+  {
+    "company": "CROWDSTRIKE HOLDINGS INC",
+    "root_url": "http://ir.crowdstrike.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://ir.crowdstrike.com",
+      "http://ir.crowdstrike.com",
+      "http://ir.crowdstrike.com/financial-information/sec-filings",
+      "http://ir.crowdstrike.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "http://ir.crowdstrike.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "http://ir.crowdstrike.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "http://ir.crowdstrike.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=4",
+      "http://ir.crowdstrike.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=5",
+      "http://ir.crowdstrike.com/static-files/32d43797-85da-47f9-a4c3-a8803cc2536d"
+    ],
+    "doc_url": "http://ir.crowdstrike.com/static-files/32d43797-85da-47f9-a4c3-a8803cc2536d"
+  },
+  {
+    "company": "NORTHROP GRUMMAN CORPORATION",
+    "root_url": "http://www.northropgrumman.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investor.northropgrumman.com",
+      "https://investor.northropgrumman.com",
+      "https://investor.northropgrumman.com/sec-filings",
+      "https://investor.northropgrumman.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://investor.northropgrumman.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://investor.northropgrumman.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://investor.northropgrumman.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=4",
+      "https://investor.northropgrumman.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=5",
+      "https://investor.northropgrumman.com/static-files/26485d53-889f-4106-b9d9-922f56b6e905"
+    ],
+    "doc_url": "https://investor.northropgrumman.com/static-files/26485d53-889f-4106-b9d9-922f56b6e905"
+  },
+  {
+    "company": "WESTERN DIGITAL CORPORATION",
+    "root_url": "http://www.westerndigital.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.westerndigital.com",
+      "https://investor.wdc.com/",
+      "https://investor.wdc.com/sec-filings/sec-filing/10-q/0001628280-26-004207"
+    ],
+    "doc_url": "https://investor.wdc.com/sec-filings/sec-filing/10-q/0001628280-26-004207"
+  },
+  {
+    "company": "HOWMET AEROSPACE INC",
+    "root_url": "http://www.howmet.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.howmet.com",
+      "https://www.howmet.com/investors/",
+      "https://www.howmet.com/investors/",
+      "https://www.howmet.com/wp-content/uploads/sites/3/2025/10/Howmet-Q3-2025-10Q-Final.pdf"
+    ],
+    "doc_url": "https://www.howmet.com/wp-content/uploads/sites/3/2025/10/Howmet-Q3-2025-10Q-Final.pdf"
+  },
+  {
+    "company": "EMERSON ELECTRIC CO",
+    "root_url": "http://www.emerson.com/en-us",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.emerson.com/en-us",
+      "http://www.emerson.com/en-us/investors",
+      "http://www.emerson.com/en-us/investors",
+      "https://ir.emerson.com/sec-filings/all-sec-filings/content/0000032604-26-000007/0000032604-26-000007.pdf"
+    ],
+    "doc_url": "https://ir.emerson.com/sec-filings/all-sec-filings/content/0000032604-26-000007/0000032604-26-000007.pdf"
+  },
+  {
+    "company": "3M COMPANY",
+    "root_url": "http://www.3m.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investors.3m.com",
+      "https://investors.3m.com",
+      "https://investors.3m.com/financials/sec-filings",
+      "https://investors.3m.com/financials/sec-filings?page=2",
+      "https://investors.3m.com/financials/sec-filings?page=1",
+      "https://investors.3m.com/financials/sec-filings?page=3",
+      "https://investors.3m.com/financials/sec-filings?page=4",
+      "https://investors.3m.com/financials/sec-filings?page=5",
+      "https://investors.3m.com/financials/sec-filings?page=6",
+      "https://investors.3m.com/financials/sec-filings/content/0000066740-25-000089/0000066740-25-000089.pdf"
+    ],
+    "doc_url": "https://investors.3m.com/financials/sec-filings/content/0000066740-25-000089/0000066740-25-000089.pdf"
+  },
+  {
+    "company": "SANDISK CORP",
+    "root_url": "http://www.sandisk.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.sandisk.com",
+      "https://investor.sandisk.com/",
+      "https://investor.sandisk.com/financial-information/sec-filings",
+      "https://investor.sandisk.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.sandisk.com/static-files/df73151e-8cc9-4cbd-bbe1-f2e767d6a6b8"
+    ],
+    "doc_url": "https://investor.sandisk.com/static-files/df73151e-8cc9-4cbd-bbe1-f2e767d6a6b8"
+  },
+  {
+    "company": "BANK OF NEW YORK MELLON CORP.",
+    "root_url": "http://www.bny.com/corporate/apac/en.html",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.bny.com/corporate/apac/en.html",
+      "http://www.bny.com/corporate/global/en/investor-relations/overview.html",
+      "http://www.bny.com/content/dam/bnymellon/documents/pdf/investor-relations/form10-q-3q25.pdf"
+    ],
+    "doc_url": "http://www.bny.com/content/dam/bnymellon/documents/pdf/investor-relations/form10-q-3q25.pdf"
+  },
+  {
+    "company": "JOHNSON CONTROLS INTERNATIONAL PLC",
+    "root_url": "http://www.johnsoncontrols.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.johnsoncontrols.com",
+      "https://investors.johnsoncontrols.com/?_gl=1*ec22vu*_gcl_au*MTQ1NTE3MTI2OC4xNzI0NjgxNzU1*_ga*MTY5NDc5NzE1NS4xNzI3MjgwNDk4*_ga_WF9ZQY48YD*MTcyNzcyMDQ5OC4xMy4wLjE3Mjc3MjA0OTguNjAuMC4xMjYzNTA2NDIy*_ga_YZ2PW8Q4M4*MTcyNzcyMDQ5OS4xMy4wLjE3Mjc3MjA0OTkuNjAuMC4w&_ga=2.256307139.930606154.1727691499-1694797155.1727280498",
+      "https://johnsoncontrols2025ir.q4web.com/files/doc_financials/2026/q1/jci-plc-fy2026-first-quarter-form-10-q.pdf"
+    ],
+    "doc_url": "https://johnsoncontrols2025ir.q4web.com/files/doc_financials/2026/q1/jci-plc-fy2026-first-quarter-form-10-q.pdf"
+  },
+  {
+    "company": "EQUINIX, INC.",
+    "root_url": "http://www.equinix.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.equinix.com",
+      "http://investor.equinix.com/",
+      "http://investor.equinix.com/sec-filings",
+      "http://investor.equinix.com/sec-filings/quarterly-reports",
+      "https://investor.equinix.com/sec-filings/quarterly-reports/content/0001101239-25-000062/0001101239-25-000062.pdf"
+    ],
+    "doc_url": "https://investor.equinix.com/sec-filings/quarterly-reports/content/0001101239-25-000062/0001101239-25-000062.pdf"
+  },
+  {
+    "company": "CONSTELLATION ENERGY CORP",
+    "root_url": "http://www.constellationenergy.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.constellationenergy.com",
+      "https://investors.constellationenergy.com/",
+      "https://investors.constellationenergy.com/static-files/7bb1ab69-4995-447e-bbbe-abb6bd596231"
+    ],
+    "doc_url": "https://investors.constellationenergy.com/static-files/7bb1ab69-4995-447e-bbbe-abb6bd596231"
+  },
+  {
+    "company": "REGENERON PHARMACEUTICALS INCORPORATED",
+    "root_url": "http://www.regeneron.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.regeneron.com",
+      "https://investor.regeneron.com/",
+      "https://investor.regeneron.com/financials/sec-filings",
+      "https://investor.regeneron.com/financials/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.regeneron.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=2",
+      "https://investor.regeneron.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=3",
+      "https://investor.regeneron.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=4",
+      "https://investor.regeneron.com/static-files/494f2da5-a59c-4c90-9654-9a255f60a260"
+    ],
+    "doc_url": "https://investor.regeneron.com/static-files/494f2da5-a59c-4c90-9654-9a255f60a260"
+  },
+  {
+    "company": "BROOKFIELD ASSET MANAGEMENT LTD",
+    "root_url": "http://bam.brookfield.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://bam.brookfield.com",
+      "http://bam.brookfield.com",
+      "http://bam.brookfield.com/reports-sec-filings/sec-filings",
+      "http://bam.brookfield.com/reports-sec-filings/quarterly-and-annual-reports",
+      "http://bam.brookfield.com/sites/brookfield-bam-v2/files/brookfield-bam-v2/report-fillings/annual-quarterly-reports/q3-2025-bam-10-q.pdf"
+    ],
+    "doc_url": "http://bam.brookfield.com/sites/brookfield-bam-v2/files/brookfield-bam-v2/report-fillings/annual-quarterly-reports/q3-2025-bam-10-q.pdf"
+  },
+  {
+    "company": "WILLIAMS COMPANIES INC",
+    "root_url": "http://www.williams.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.williams.com",
+      "https://investor.williams.com/",
+      "https://investor.williams.com/financials/sec-filings",
+      "https://investor.williams.com/financials/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.williams.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=2",
+      "https://investor.williams.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=3",
+      "https://investor.williams.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=4",
+      "https://investor.williams.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=5",
+      "https://investor.williams.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=6",
+      "https://investor.williams.com/static-files/5876f97e-e067-4246-9f51-d949b4aa6506"
+    ],
+    "doc_url": "https://investor.williams.com/static-files/5876f97e-e067-4246-9f51-d949b4aa6506"
+  },
+  {
+    "company": "MONSTER BEVERAGE CORP",
+    "root_url": "http://monsterbevcorp.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://monsterbevcorp.com",
+      "http://investors.monsterbevcorp.com/contact-us",
+      "http://investors.monsterbevcorp.com/contact-us",
+      "http://investors.monsterbevcorp.com/financial-information/sec-filings",
+      "http://investors.monsterbevcorp.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "http://investors.monsterbevcorp.com/static-files/a6d265aa-a61a-49c7-8eab-d1cb5526ef36"
+    ],
+    "doc_url": "http://investors.monsterbevcorp.com/static-files/a6d265aa-a61a-49c7-8eab-d1cb5526ef36"
+  },
+  {
+    "company": "CUMMINS INC",
+    "root_url": "http://www.cummins.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.cummins.com",
+      "http://www.cummins.com/company/investor-relations",
+      "https://investor.cummins.com/sec-filings",
+      "https://investor.cummins.com/sec-filings/quarterly-reports",
+      "https://investor.cummins.com/sec-filings/quarterly-reports/content/0000026172-25-000039/0000026172-25-000039.pdf"
+    ],
+    "doc_url": "https://investor.cummins.com/sec-filings/quarterly-reports/content/0000026172-25-000039/0000026172-25-000039.pdf"
+  },
+  {
+    "company": "MONDELEZ INTERNATIONAL INCORPORATED",
+    "root_url": "http://www.mondelezinternational.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.mondelezinternational.com",
+      "https://ir.mondelezinternational.com/",
+      "https://ir.mondelezinternational.com/financials/sec-filings",
+      "https://ir.mondelezinternational.com/static-files/cb7559bd-9dec-46da-94b3-8ecf4fdd0e02"
+    ],
+    "doc_url": "https://ir.mondelezinternational.com/static-files/cb7559bd-9dec-46da-94b3-8ecf4fdd0e02"
+  },
+  {
+    "company": "CINTAS CORP",
+    "root_url": "http://www.cintas.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.cintas.com",
+      "http://www.cintas.com/investors",
+      "http://www.cintas.com/investors/financial-reports",
+      "https://www.sec.gov/cgi-bin/browse-edgar?CIK=723254",
+      "https://www.sec.gov/Archives/edgar/data/723254/000072325426000002/0000723254-26-000002-index.htm",
+      "https://www.sec.gov/ix?doc=/Archives/edgar/data/723254/000072325426000002/ctas-20251130.htm"
+    ],
+    "doc_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/723254/000072325426000002/ctas-20251130.htm"
+  },
+  {
+    "company": "APOLLO GLOBAL MANAGEMENT INC",
+    "root_url": "http://www.apollo.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://ir.apollo.com",
+      "https://ir.apollo.com",
+      "https://ir.apollo.com/sec-filings",
+      "https://ir.apollo.com/sec-filings?page=2",
+      "https://ir.apollo.com/sec-filings?page=1",
+      "https://ir.apollo.com/sec-filings?page=3",
+      "https://ir.apollo.com/sec-filings?page=4",
+      "https://ir.apollo.com/sec-filings?page=5",
+      "https://ir.apollo.com/sec-filings/content/0001858681-25-000139/0001858681-25-000139.pdf"
+    ],
+    "doc_url": "https://ir.apollo.com/sec-filings/content/0001858681-25-000139/0001858681-25-000139.pdf"
+  },
+  {
+    "company": "QUANTA SERVICES INCORPORATED",
+    "root_url": "http://www.quantaservices.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.quantaservices.com",
+      "https://investors.quantaservices.com/",
+      "https://investors.quantaservices.com/sec-filings/10-q-quarterly-reports",
+      "https://investors.quantaservices.com/sec-filings/all-sec-filings/content/0001050915-25-000111/pwr-20250930.htm"
+    ],
+    "doc_url": "https://investors.quantaservices.com/sec-filings/all-sec-filings/content/0001050915-25-000111/pwr-20250930.htm"
+  },
+  {
+    "company": "COLGATE-PALMOLIVE CO.",
+    "root_url": "http://www.colgatepalmolive.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.colgatepalmolive.com",
+      "https://investor.colgatepalmolive.com/",
+      "https://investor.colgatepalmolive.com/sec-filings",
+      "https://investor.colgatepalmolive.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.colgatepalmolive.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://investor.colgatepalmolive.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "https://investor.colgatepalmolive.com/static-files/a600b59f-157d-4c41-b7e7-18fdb82198ae"
+    ],
+    "doc_url": "https://investor.colgatepalmolive.com/static-files/a600b59f-157d-4c41-b7e7-18fdb82198ae"
+  },
+  {
+    "company": "GENERAL MOTORS COMPANY",
+    "root_url": "http://www.gm.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investor.gm.com",
+      "https://investor.gm.com",
+      "https://investor.gm.com/shareholders/sec-filings",
+      "https://investor.gm.com/shareholders/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.gm.com/shareholders/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=2",
+      "https://investor.gm.com/shareholders/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=3",
+      "https://investor.gm.com/static-files/c3ed17db-971c-4d8e-a55e-fc2f5a82f7d8"
+    ],
+    "doc_url": "https://investor.gm.com/static-files/c3ed17db-971c-4d8e-a55e-fc2f5a82f7d8"
+  },
+  {
+    "company": "SLB NV",
+    "root_url": "http://www.slb.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.slb.com",
+      "https://investorcenter.slb.com/",
+      "https://investorcenter.slb.com/financials/sec-filings",
+      "https://investorcenter.slb.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investorcenter.slb.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://investorcenter.slb.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "https://investorcenter.slb.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=4",
+      "https://investorcenter.slb.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=5",
+      "https://investorcenter.slb.com/static-files/597e61c2-3274-4d95-93eb-a65ce6ce2a9b"
+    ],
+    "doc_url": "https://investorcenter.slb.com/static-files/597e61c2-3274-4d95-93eb-a65ce6ce2a9b"
+  },
+  {
+    "company": "TRUIST FINANCIAL CORP",
+    "root_url": "http://www.truist.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.truist.com",
+      "https://ir.truist.com/",
+      "https://ir.truist.com/sec-filings",
+      "https://ir.truist.com/sec-filings?cat=2",
+      "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319540874&type=PDF&symbol=TFC&cdn=7962082116d8f6c085d792fceae2a342&companyName=Truist+Financial+Corporation&formType=10-Q&dateFiled=2025-10-30"
+    ],
+    "doc_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319540874&type=PDF&symbol=TFC&cdn=7962082116d8f6c085d792fceae2a342&companyName=Truist+Financial+Corporation&formType=10-Q&dateFiled=2025-10-30"
+  },
+  {
+    "company": "MARVELL TECHNOLOGY INC",
+    "root_url": "http://www.marvell.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.marvell.com",
+      "https://investor.marvell.com/?src=main",
+      "https://investor.marvell.com/sec-filings/quarterly-reports",
+      "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-25-000197/mrvl-20251101.htm"
+    ],
+    "doc_url": "https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-25-000197/mrvl-20251101.htm"
+  },
+  {
+    "company": "NORFOLK SOUTHERN CORPORATION",
+    "root_url": "http://www.norfolksouthern.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.norfolksouthern.com",
+      "https://norfolksouthern.investorroom.com/",
+      "https://norfolksouthern.investorroom.com/sec-filings",
+      "https://norfolksouthern.investorroom.com/sec-filings?cat=2",
+      "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319524798&type=PDF&symbol=NSC&cdn=306b41e3410d639af739ac1989416885&companyName=Norfolk+Southern+Corporation&formType=10-Q&dateFiled=2025-10-23"
+    ],
+    "doc_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319524798&type=PDF&symbol=NSC&cdn=306b41e3410d639af739ac1989416885&companyName=Norfolk+Southern+Corporation&formType=10-Q&dateFiled=2025-10-23"
+  },
+  {
+    "company": "KINDER MORGAN INCORPORATED",
+    "root_url": "http://www.kindermorgan.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.kindermorgan.com",
+      "https://ir.kindermorgan.com",
+      "https://s24.q4cdn.com/126708163/files/doc_financials/2025/q4/KMI-2025-10K-Final-as-Filed-wo-Exhibits.pdf"
+    ],
+    "doc_url": "https://s24.q4cdn.com/126708163/files/doc_financials/2025/q4/KMI-2025-10K-Final-as-Filed-wo-Exhibits.pdf"
+  },
+  {
+    "company": "MOTOROLA SOLUTIONS INCORPORATION",
+    "root_url": "http://www.motorolasolutions.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.motorolasolutions.com",
+      "https://www.motorolasolutions.com/investors.html",
+      "https://www.motorolasolutions.com/investors/earnings-and-sec-filings.html",
+      "https://www.motorolasolutions.com/content/dam/msi/investors/doc_financials/2024/q3/msi_q3_2024_10-q.pdf"
+    ],
+    "doc_url": "https://www.motorolasolutions.com/content/dam/msi/investors/doc_financials/2024/q3/msi_q3_2024_10-q.pdf"
+  },
+  {
+    "company": "SIMON PROPERTY GROUP INC",
+    "root_url": "http://www.simon.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investors.simon.com",
+      "https://investors.simon.com",
+      "https://investors.simon.com/static-files/498fee1e-84b6-4411-ad29-43ed74f9469e"
+    ],
+    "doc_url": "https://investors.simon.com/static-files/498fee1e-84b6-4411-ad29-43ed74f9469e"
+  },
+  {
+    "company": "AIR PRODUCTS AND CHEMICALS INC",
+    "root_url": "http://www.airproducts.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.airproducts.com",
+      "https://investors.airproducts.com/",
+      "https://investors.airproducts.com/annual-reports",
+      "https://investors.airproducts.com/static-files/d5e794b6-ecc5-4540-b455-fc61d8d0f632"
+    ],
+    "doc_url": "https://investors.airproducts.com/static-files/d5e794b6-ecc5-4540-b455-fc61d8d0f632"
+  },
+  {
+    "company": "ROSS STORES INCORPORATED",
+    "root_url": "http://www.rossstores.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.rossstores.com",
+      "https://investors.rossstores.com/",
+      "https://investors.rossstores.com/static-files/04a8db92-b2d5-4996-b15b-6123437d7f67"
+    ],
+    "doc_url": "https://investors.rossstores.com/static-files/04a8db92-b2d5-4996-b15b-6123437d7f67"
+  },
+  {
+    "company": "EOG RESOURCES INC",
+    "root_url": "http://www.eogresources.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.eogresources.com",
+      "https://investors.eogresources.com/Investors",
+      "https://investors.eogresources.com/sec-filings",
+      "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319559759&type=PDF&symbol=EOG&cdn=5472b824b3b2263e4195586379ae2157&companyName=EOG+Resources+Inc.&formType=10-Q&dateFiled=2025-11-06"
+    ],
+    "doc_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319559759&type=PDF&symbol=EOG&cdn=5472b824b3b2263e4195586379ae2157&companyName=EOG+Resources+Inc.&formType=10-Q&dateFiled=2025-11-06"
+  },
+  {
+    "company": "ENERGY TRANSFER LP",
+    "root_url": "http://www.energytransfer.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://ir.energytransfer.com",
+      "https://ir.energytransfer.com",
+      "https://ir.energytransfer.com/sec-filings-et",
+      "https://ir.energytransfer.com/sec-filings-et?&field_nir_sec_cik_target_id=0001276187&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://ir.energytransfer.com/sec-filings-et?&field_nir_sec_cik_target_id=0001276187&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://ir.energytransfer.com/static-files/8bc4a2cd-509c-415e-bb6a-cb4fa0348967"
+    ],
+    "doc_url": "https://ir.energytransfer.com/static-files/8bc4a2cd-509c-415e-bb6a-cb4fa0348967"
+  },
+  {
+    "company": "BECTON DICKINSON AND CO",
+    "root_url": "http://www.bd.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.bd.com",
+      "https://investors.bd.com",
+      "https://investors.bd.com/sec-filings/all-sec-filings/content/0000010795-26-000005/0000010795-26-000005.pdf"
+    ],
+    "doc_url": "https://investors.bd.com/sec-filings/all-sec-filings/content/0000010795-26-000005/0000010795-26-000005.pdf"
+  },
+  {
+    "company": "AUTOZONE, INC.",
+    "root_url": "http://www.autozone.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.autozone.com",
+      "https://about.autozone.com/investor-overview",
+      "https://about.autozone.com/investor-relations/financial-information",
+      "https://about.autozone.com/static-files/4bee9cdf-5be8-49e0-be28-bff400805168"
+    ],
+    "doc_url": "https://about.autozone.com/static-files/4bee9cdf-5be8-49e0-be28-bff400805168"
+  },
+  {
+    "company": "FORTINET INCORPORATION",
+    "root_url": "http://www.fortinet.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investor.fortinet.com",
+      "https://investor.fortinet.com",
+      "https://investor.fortinet.com/sec-filings",
+      "https://investor.fortinet.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://investor.fortinet.com/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://investor.fortinet.com/static-files/554facb5-10b4-4c4c-a539-730e2a03e500"
+    ],
+    "doc_url": "https://investor.fortinet.com/static-files/554facb5-10b4-4c4c-a539-730e2a03e500"
+  },
+  {
+    "company": "DIGITAL REALTY TRUST, INC.",
+    "root_url": "http://www.digitalrealty.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.digitalrealty.com",
+      "https://investor.digitalrealty.com/overview/default.aspx",
+      "https://investor.digitalrealty.com/financials/sec-filings",
+      "https://investor.digitalrealty.com/financials/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.digitalrealty.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=2",
+      "https://investor.digitalrealty.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=3",
+      "https://investor.digitalrealty.com/financials/sec-filings?field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=4",
+      "https://investor.digitalrealty.com/static-files/0ef4ef78-63bb-44fb-b9a0-a118f19dc2c5"
+    ],
+    "doc_url": "https://investor.digitalrealty.com/static-files/0ef4ef78-63bb-44fb-b9a0-a118f19dc2c5"
+  },
+  {
+    "company": "MPLX LP",
+    "root_url": "http://www.mplx.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://ir.mplx.com",
+      "https://ir.mplx.com",
+      "https://ir.mplx.com/CorporateProfile/sec-filings/sec-filings-details/default.aspx?FilingId=18889744",
+      "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001552000/c262d750-2005-4985-bb2d-d37e18ee8edb.pdf"
+    ],
+    "doc_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001552000/c262d750-2005-4985-bb2d-d37e18ee8edb.pdf"
+  },
+  {
+    "company": "SEMPRA",
+    "root_url": "http://www.sempra.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investor.sempra.com",
+      "https://investor.sempra.com",
+      "https://investor.sempra.com/sec-filings",
+      "https://investor.sempra.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.sempra.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=2",
+      "https://investor.sempra.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=3",
+      "https://investor.sempra.com/static-files/a20199df-018f-4c4b-bf8c-2367930c07ef"
+    ],
+    "doc_url": "https://investor.sempra.com/static-files/a20199df-018f-4c4b-bf8c-2367930c07ef"
+  },
+  {
+    "company": "IDEXX LABORATORIES INCORPORATED",
+    "root_url": "http://www.idexx.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://ir.idexx.com",
+      "https://ir.idexx.com",
+      "https://ir.idexx.com/sec-filings/quarterly-reports",
+      "https://ir.idexx.com/sec-filings/all-sec-filings/content/0000874716-25-000165/idxx-20250930.htm"
+    ],
+    "doc_url": "https://ir.idexx.com/sec-filings/all-sec-filings/content/0000874716-25-000165/idxx-20250930.htm"
+  },
+  {
+    "company": "AMETEK INC",
+    "root_url": "http://www.ametek.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.ametek.com",
+      "https://investors.ametek.com/",
+      "https://investors.ametek.com/financial-information/sec-filings",
+      "https://investors.ametek.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investors.ametek.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=2",
+      "https://investors.ametek.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=3",
+      "https://investors.ametek.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=4",
+      "https://investors.ametek.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=5",
+      "https://investors.ametek.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&page=6",
+      "https://investors.ametek.com/static-files/38777331-717e-4796-ad8a-af7c67443119"
+    ],
+    "doc_url": "https://investors.ametek.com/static-files/38777331-717e-4796-ad8a-af7c67443119"
+  },
+  {
+    "company": "AUTODESK, INC.",
+    "root_url": "http://www.autodesk.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://investors.autodesk.com",
+      "https://investors.autodesk.com",
+      "https://investors.autodesk.com/financials/sec-filings",
+      "https://investors.autodesk.com/static-files/9e9a254b-21aa-4aa0-8447-36b8da45d05a"
+    ],
+    "doc_url": "https://investors.autodesk.com/static-files/9e9a254b-21aa-4aa0-8447-36b8da45d05a"
+  },
+  {
+    "company": "CBRE GROUP INCORPORATED",
+    "root_url": "http://www.cbre.us",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.cbre.us",
+      "https://ir.cbre.com",
+      "https://ir.cbre.com/financial-reports/sec-filings",
+      "https://ir.cbre.com/financial-reports/sec-filings?page=2",
+      "https://ir.cbre.com/financial-reports/sec-filings?page=1",
+      "https://ir.cbre.com/financial-reports/sec-filings?page=3",
+      "https://ir.cbre.com/financial-reports/sec-filings?page=4",
+      "https://ir.cbre.com/financial-reports/sec-filings?page=5",
+      "https://ir.cbre.com/financial-reports/sec-filings/content/0001138118-25-000025/0001138118-25-000025.pdf"
+    ],
+    "doc_url": "https://ir.cbre.com/financial-reports/sec-filings/content/0001138118-25-000025/0001138118-25-000025.pdf"
+  },
+  {
+    "company": "TERADYNE, INC.",
+    "root_url": "http://www.teradyne.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.teradyne.com",
+      "https://investors.teradyne.com",
+      "https://investors.teradyne.com/sec-filings",
+      "https://investors.teradyne.com/sec-filings/quarterly-reports",
+      "https://investors.teradyne.com/sec-filings/all-sec-filings/content/0001193125-25-258477/ter-20250928.htm"
+    ],
+    "doc_url": "https://investors.teradyne.com/sec-filings/all-sec-filings/content/0001193125-25-258477/ter-20250928.htm"
+  },
+  {
+    "company": "CORTEVA INC",
+    "root_url": "http://www.corteva.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.corteva.com",
+      "https://investors.corteva.com",
+      "https://investors.corteva.com/financial-information/sec-filings",
+      "https://investors.corteva.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investors.corteva.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://investors.corteva.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=3",
+      "https://investors.corteva.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=0&&&&page=4",
+      "https://investors.corteva.com/static-files/f7c05fc9-7039-4775-8940-7b43f8cd1603"
+    ],
+    "doc_url": "https://investors.corteva.com/static-files/f7c05fc9-7039-4775-8940-7b43f8cd1603"
+  },
+  {
+    "company": "NASDAQ INC",
+    "root_url": "http://www.nasdaq.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.nasdaq.com",
+      "http://ir.nasdaq.com/",
+      "http://ir.nasdaq.com/financials/sec-filings",
+      "http://ir.nasdaq.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "http://ir.nasdaq.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "http://ir.nasdaq.com/financials/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "http://ir.nasdaq.com/static-files/98ec7bab-dbe9-4ea7-95e3-83969c929a3a"
+    ],
+    "doc_url": "http://ir.nasdaq.com/static-files/98ec7bab-dbe9-4ea7-95e3-83969c929a3a"
+  },
+  {
+    "company": "ROCKWELL AUTOMATION, INC.",
+    "root_url": "http://www.rockwellautomation.com/en-in.html",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.rockwellautomation.com/en-in.html",
+      "http://www.rockwellautomation.com/en-in/company/news.html",
+      "https://www.rockwellautomation.com/en-in/company.html",
+      "https://www.rockwellautomation.com/en-in/company/about-us/investor-relations.html",
+      "https://www.rockwellautomation.com/content/dam/rockwell-automation/documents/pdf/company/about-us/ir/2026/fy26-q1-10q.pdf"
+    ],
+    "doc_url": "https://www.rockwellautomation.com/content/dam/rockwell-automation/documents/pdf/company/about-us/ir/2026/fy26-q1-10q.pdf"
+  },
+  {
+    "company": "CARNIVAL CORP",
+    "root_url": "http://www.carnivalcorp.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.carnivalcorp.com",
+      "https://www.carnivalcorp.com/investors/",
+      "https://www.carnivalcorp.com/wp-content/uploads/2025/03/2025-3Q-10-Q-1.pdf"
+    ],
+    "doc_url": "https://www.carnivalcorp.com/wp-content/uploads/2025/03/2025-3Q-10-Q-1.pdf"
+  },
+  {
+    "company": "TARGA RESOURCES CORP",
+    "root_url": "http://www.targaresources.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.targaresources.com",
+      "http://www.targaresources.com/investors",
+      "http://www.targaresources.com/investors/financial-information/sec-filings",
+      "http://www.targaresources.com/investors/financial-information/sec-filings?&field_nir_sec_cik_target_id=0001389170&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "http://www.targaresources.com/investors/financial-information/sec-filings?&field_nir_sec_cik_target_id=0001389170&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "http://www.targaresources.com/investors/financial-information/sec-filings?&field_nir_sec_cik_target_id=0001389170&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "http://www.targaresources.com/investors/financial-information/sec-filings?&field_nir_sec_cik_target_id=0001389170&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=4",
+      "http://www.targaresources.com/investors/financial-information/sec-filings?&field_nir_sec_cik_target_id=0001389170&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=5",
+      "http://www.targaresources.com/static-files/c3e6eaa1-99be-4c9f-871c-e48094eebb21"
+    ],
+    "doc_url": "http://www.targaresources.com/static-files/c3e6eaa1-99be-4c9f-871c-e48094eebb21"
+  },
+  {
+    "company": "EXELON CORPORATION",
+    "root_url": "http://www.exeloncorp.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.exeloncorp.com",
+      "https://investors.exeloncorp.com/",
+      "https://investors.exeloncorp.com/sec-filings",
+      "https://investors.exeloncorp.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://investors.exeloncorp.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://investors.exeloncorp.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://investors.exeloncorp.com/static-files/2b2986d5-c16d-4100-8737-6ae4f061b1b1"
+    ],
+    "doc_url": "https://investors.exeloncorp.com/static-files/2b2986d5-c16d-4100-8737-6ae4f061b1b1"
+  },
+  {
+    "company": "COMFORT SYSTEMS USA INC",
+    "root_url": "http://comfortsystemsusa.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://comfortsystemsusa.com",
+      "https://investors.comfortsystemsusa.com/",
+      "https://investors.comfortsystemsusa.com/sec-filings?field_nir_sec_form_group_target_id%5B0%5D=496&field_nir_sec_date_filed_value=#views-exposed-form-widget-sec-filings-table",
+      "https://investors.comfortsystemsusa.com/static-files/7cbd546c-2a15-4914-9e85-444b18370fb1"
+    ],
+    "doc_url": "https://investors.comfortsystemsusa.com/static-files/7cbd546c-2a15-4914-9e85-444b18370fb1"
+  },
+  {
+    "company": "ALNYLAM PHARMACEUTICALS, INC.",
+    "root_url": "http://www.alnylam.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.alnylam.com",
+      "https://investors.alnylam.com/",
+      "https://investors.alnylam.com/",
+      "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/37f6982b-3379-49a9-abfc-3aa34f08bb8c"
+    ],
+    "doc_url": "https://alnylampharmaceuticalsinc.gcs-web.com/static-files/37f6982b-3379-49a9-abfc-3aa34f08bb8c"
+  },
+  {
+    "company": "OLD DOMINION FREIGHT LINE, INC.",
+    "root_url": "http://www.odfl.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.odfl.com",
+      "https://ir.odfl.com/",
+      "https://ir.odfl.com/sec-filings",
+      "https://ir.odfl.com/sec-filings/quarterly-reports",
+      "https://ir.odfl.com/sec-filings/quarterly-reports/content/0001193125-25-268415/0001193125-25-268415.pdf"
+    ],
+    "doc_url": "https://ir.odfl.com/sec-filings/quarterly-reports/content/0001193125-25-268415/0001193125-25-268415.pdf"
+  },
+  {
+    "company": "COHERENT CORP",
+    "root_url": "http://www.coherent.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.coherent.com",
+      "http://www.coherent.com/company/investor-relations",
+      "https://www.coherent.com/company/investor-relations/sec-filings",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000820318&owner=exclude&count=40",
+      "https://www.sec.gov/Archives/edgar/data/820318/000082031826000006/0000820318-26-000006-index.htm"
+    ],
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/820318/000082031826000006/0000820318-26-000006-index.htm"
+  },
+  {
+    "company": "MICROCHIP TECHNOLOGY INCORPORATION",
+    "root_url": "http://www.microchip.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.microchip.com",
+      "https://www.microchip.com/en-us/about/investors",
+      "https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000009/0000827054-26-000009.pdf"
+    ],
+    "doc_url": "https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000009/0000827054-26-000009.pdf"
+  },
+  {
+    "company": "MARTIN MARIETTA MATERIALS, INC.",
+    "root_url": "http://www.martinmarietta.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.martinmarietta.com",
+      "https://ir.martinmarietta.com/",
+      "https://ir.martinmarietta.com/reports-filings/sec-filings",
+      "https://ir.martinmarietta.com/reports-filings/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://ir.martinmarietta.com/reports-filings/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://ir.martinmarietta.com/reports-filings/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://ir.martinmarietta.com/reports-filings/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=4",
+      "https://ir.martinmarietta.com/static-files/b0a2e59a-0013-4ec4-a90b-c52ad58d85e4"
+    ],
+    "doc_url": "https://ir.martinmarietta.com/static-files/b0a2e59a-0013-4ec4-a90b-c52ad58d85e4"
+  },
+  {
+    "company": "RESMED INC.",
+    "root_url": "http://www.resmed.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.resmed.com",
+      "https://investor.resmed.com/investor-relations/default.aspx",
+      "https://investor.resmed.com/sec-filings/all-sec-filings/content/0000943819-26-000007/0000943819-26-000007.pdf"
+    ],
+    "doc_url": "https://investor.resmed.com/sec-filings/all-sec-filings/content/0000943819-26-000007/0000943819-26-000007.pdf"
+  },
+  {
+    "company": "MSCI INC.",
+    "root_url": "http://www.msci.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": true,
+    "link_trace": [
+      "https://ir.msci.com",
+      "https://ir.msci.com",
+      "https://ir.msci.com/sec-filings",
+      "https://ir.msci.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://ir.msci.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://ir.msci.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://ir.msci.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=4",
+      "https://ir.msci.com/static-files/b4ae8453-9edb-4642-b668-4f0fe095dfc5"
+    ],
+    "doc_url": "https://ir.msci.com/static-files/b4ae8453-9edb-4642-b668-4f0fe095dfc5"
+  },
+  {
+    "company": "ROPER TECHNOLOGIES INC",
+    "root_url": "http://www.ropertech.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.ropertech.com",
+      "http://www.ropertech.com/stock-information/overview",
+      "http://www.ropertech.com/sec-filings",
+      "http://www.ropertech.com/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "http://www.ropertech.com/static-files/beea9375-77e0-4d30-9e94-fa0f99a226b4"
+    ],
+    "doc_url": "http://www.ropertech.com/static-files/beea9375-77e0-4d30-9e94-fa0f99a226b4"
+  },
+  {
+    "company": "CONSOLIDATED EDISON, INC.",
+    "root_url": "http://www.conedison.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.conedison.com",
+      "https://investor.conedison.com/",
+      "https://investor.conedison.com/financial-information/sec-filings",
+      "https://investor.conedison.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.conedison.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=2",
+      "https://investor.conedison.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=3",
+      "https://investor.conedison.com/financial-information/sec-filings?&&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=4",
+      "https://investor.conedison.com/static-files/d5095043-8502-4168-9774-4a4edce2efa5"
+    ],
+    "doc_url": "https://investor.conedison.com/static-files/d5095043-8502-4168-9774-4a4edce2efa5"
+  },
+  {
+    "company": "KEURIG DR PEPPER INC",
+    "root_url": "http://www.keurigdrpepper.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.keurigdrpepper.com",
+      "https://investors.keurigdrpepper.com/home",
+      "https://investors.keurigdrpepper.com/financials",
+      "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319530065&type=HTML&symbol=KDP&cdn=fa6242ed1e9781a47dc18bf694052fb0&companyName=Keurig+Dr+Pepper+Inc.&formType=10-Q&dateFiled=2025-10-28"
+    ],
+    "doc_url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319530065&type=HTML&symbol=KDP&cdn=fa6242ed1e9781a47dc18bf694052fb0&companyName=Keurig+Dr+Pepper+Inc.&formType=10-Q&dateFiled=2025-10-28"
+  },
+  {
+    "company": "CIENA CORP",
+    "root_url": "http://www.ciena.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.ciena.com",
+      "https://investor.ciena.com/",
+      "https://investor.ciena.com/financials/sec-filings",
+      "https://investor.ciena.com/financials/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=0&page=1",
+      "https://investor.ciena.com/static-files/1bb0acd9-7814-4007-9d83-26e9920e6ba3"
+    ],
+    "doc_url": "https://investor.ciena.com/static-files/1bb0acd9-7814-4007-9d83-26e9920e6ba3"
+  },
+  {
+    "company": "UNITED AIRLINES HOLDINGS INC",
+    "root_url": "http://ir.united.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://ir.united.com",
+      "http://ir.united.com",
+      "http://ir.united.com/financial-information/sec-filings",
+      "https://ir.united.com/static-files/29e8306e-5181-4065-b9db-2c360696c5f2"
+    ],
+    "doc_url": "https://ir.united.com/static-files/29e8306e-5181-4065-b9db-2c360696c5f2"
+  },
+  {
+    "company": "GE HEALTHCARE TECHNOLOGIES INC",
+    "root_url": "http://www.gehealthcare.com",
+    "document_type": "Form 10-Q",
+    "status": "success",
+    "used_subdomain_fallback": false,
+    "link_trace": [
+      "http://www.gehealthcare.com",
+      "https://investor.gehealthcare.com/",
+      "https://investor.gehealthcare.com/financial-information/sec-filings",
+      "https://investor.gehealthcare.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=1",
+      "https://investor.gehealthcare.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=2",
+      "https://investor.gehealthcare.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&&&items_per_page_toggle=1&page=3",
+      "https://investor.gehealthcare.com/financial-information/sec-filings?&field_nir_sec_cik_target_id=&field_nir_sec_date_filed_value=&items_per_page_toggle=1&&&&page=4",
+      "https://investor.gehealthcare.com/static-files/aa11e6d9-4641-4fe9-9ad1-2e4f7694706b"
+    ],
+    "doc_url": "https://investor.gehealthcare.com/static-files/aa11e6d9-4641-4fe9-9ad1-2e4f7694706b"
+  }
+]

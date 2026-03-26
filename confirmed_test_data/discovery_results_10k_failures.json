@@ -1,0 +1,1376 @@
+[
+  {
+    "company": "TESLA INC",
+    "root_url": "http://www.tesla.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.tesla.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "BROADCOM INC",
+    "root_url": "http://www.broadcom.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.broadcom.com",
+      "http://www.broadcom.com/company",
+      "https://investors.broadcom.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "BERKSHIRE HATHAWAY INC.",
+    "root_url": "http://www.berkshirehathaway.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.berkshirehathaway.com",
+      "http://www.sec.gov/cgi-bin/browse-edgar?company=berkshire+hathaway&match=&CIK=&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ELI LILLY AND COMPANY",
+    "root_url": "http://www.lilly.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.lilly.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MASTERCARD, INC.",
+    "root_url": "http://www.mastercard.us",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.mastercard.us"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MICRON TECHNOLOGY, INC.",
+    "root_url": "http://www.micron.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.micron.com",
+      "https://investors.micron.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "JPMORGAN CHASE & CO.",
+    "root_url": "http://www.jpmorganchase.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.jpmorganchase.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ABBVIE INC",
+    "root_url": "http://www.abbvie.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.abbvie.com",
+      "https://investors.abbvie.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "COSTCO WHOLESALE CORPORATION",
+    "root_url": "http://www.costco.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.costco.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ORACLE CORP",
+    "root_url": "http://www.oracle.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.oracle.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CHEVRON CORP",
+    "root_url": "http://www.chevron.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.chevron.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "HOME DEPOT INC",
+    "root_url": "http://www.homedepot.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.homedepot.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CISCO SYSTEMS INCORPORATED",
+    "root_url": "http://www.cisco.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.cisco.com",
+      "https://investor.cisco.com/home/default.aspx",
+      "https://investor.cisco.com/financials/sec-filings/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "GENERAL ELECTRIC COMPANY",
+    "root_url": "http://www.ge.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.ge.com",
+      "http://www.ge.com/investor-relations",
+      "http://www.ge.com/investor-relations/sec-filings"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MORGAN STANLEY",
+    "root_url": "http://www.morganstanley.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.morganstanley.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "WELLS FARGO & COMPANY",
+    "root_url": "http://www.wellsfargo.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.wellsfargo.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "root_url": "http://www.ibm.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.ibm.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "RTX CORP",
+    "root_url": "http://www.rtx.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.rtx.com",
+      "https://investors.rtx.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "APPLIED MATERIALS, INC.",
+    "root_url": "http://www.appliedmaterials.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.appliedmaterials.com",
+      "https://ir.appliedmaterials.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "GOLDMAN SACHS GROUP INC",
+    "root_url": "http://www.goldmansachs.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.goldmansachs.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "PHILIP MORRIS INTERNATIONAL INCORPORATION",
+    "root_url": "http://www.pmi.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.pmi.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MCDONALD'S CORP",
+    "root_url": "http://www.mcdonalds.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.mcdonalds.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "UNITEDHEALTH GROUP INC",
+    "root_url": "http://www.unitedhealthgroup.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.unitedhealthgroup.com",
+      "https://www.unitedhealthgroup.com/investors.html",
+      "http://www.sec.gov/cgi-bin/browse-edgar?company=unitedhealth+group&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CITIGROUP INC.",
+    "root_url": "http://www.citigroup.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.citigroup.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "GE VERNOVA INC",
+    "root_url": "http://www.gevernova.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.gevernova.com",
+      "http://www.gevernova.com/investors"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AMGEN INC",
+    "root_url": "http://www.amgen.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.amgen.com",
+      "http://investors.amgen.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "TEXAS INSTRUMENTS INCORPORATED",
+    "root_url": "http://www.ti.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.ti.com",
+      "https://investor.ti.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "THERMO FISHER SCIENTIFIC INC.",
+    "root_url": "http://corporate.thermofisher.com/us/en/index.html",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://corporate.thermofisher.com/us/en/index.html"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ABBOTT LABORATORIES",
+    "root_url": "http://www.abbott.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.abbott.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "WALT DISNEY CO",
+    "root_url": "http://thewaltdisneycompany.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://thewaltdisneycompany.com",
+      "https://investors.thewaltdisneycompany.com/",
+      "https://investors.thewaltdisneycompany.com/financials/sec-filings/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CHARLES SCHWAB CORP",
+    "root_url": "http://www.schwab.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.schwab.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AT&T INC",
+    "root_url": "http://www.att.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.att.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "NEXTERA ENERGY INC",
+    "root_url": "http://www.nexteraenergy.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.nexteraenergy.com",
+      "https://www.investor.nexteraenergy.com/",
+      "https://www.investor.nexteraenergy.com/reports-and-filings/sec-filings"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "INTUITIVE SURGICAL INC",
+    "root_url": "http://www.intuitive.com/en-us/about-us/company",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.intuitive.com/en-us/about-us/company",
+      "https://isrg.intuitive.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "TJX COMPANIES INC",
+    "root_url": "http://www.tjx.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.tjx.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AIRBUS SE",
+    "root_url": "http://www.airbus.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.airbus.com",
+      "https://www.airbus.com/en/investors"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ANALOG DEVICES INCORPORATED",
+    "root_url": "http://www.analog.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.analog.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ARISTA NETWORKS INC",
+    "root_url": "http://www.arista.com/en",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.arista.com/en"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "DEERE & CO",
+    "root_url": "http://www.deere.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.deere.com",
+      "https://investor.deere.com/home/",
+      "https://investor.deere.com/sec-filings/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SOUTHERN COPPER CORPORATION",
+    "root_url": "http://southerncoppercorp.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://southerncoppercorp.com",
+      "https://southerncoppercorp.com/informacion-financiera-clave/",
+      "https://southerncoppercorp.com/reportes-para-la-sec/",
+      "https://southerncoppercorp.com/datos-financieros/",
+      "https://southerncoppercorp.com/presentaciones-de-la-compania/",
+      "https://southerncoppercorp.com/cobertura-de-analistas/",
+      "https://southerncoppercorp.com/produccion/",
+      "https://southerncoppercorp.com/eng/",
+      "https://southerncoppercorp.com/eng/key-financial-data/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "LOWE'S COMPANIES INC.",
+    "root_url": "http://www.lowes.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.lowes.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "UNION PACIFIC CORPORATION",
+    "root_url": "http://www.up.com/index.htm",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.up.com/index.htm",
+      "https://investor.unionpacific.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "HONEYWELL INTERNATIONAL INCORPORATED",
+    "root_url": "http://www.honeywell.com/us/en",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.honeywell.com/us/en"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "LOCKHEED MARTIN CORPORATION",
+    "root_url": "http://www.lockheedmartin.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.lockheedmartin.com",
+      "https://investors.lockheedmartin.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CAPITAL ONE FINANCIAL CORPORATION",
+    "root_url": "http://www.capitalone.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.capitalone.com",
+      "https://investor.capitalone.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ARM HOLDINGS PLC",
+    "root_url": "http://www.arm.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.arm.com",
+      "https://investors.arm.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "S&P GLOBAL INC",
+    "root_url": "http://www.spglobal.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.spglobal.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CONOCOPHILLIPS",
+    "root_url": "http://www.conocophillips.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.conocophillips.com",
+      "https://www.conocophillips.com/investor-relations/",
+      "https://www.conocophillips.com/investor-relations/sec-filings/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "BRISTOL-MYERS SQUIBB COMPANY",
+    "root_url": "http://www.bms.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.bms.com",
+      "http://www.bms.com/investors.html",
+      "http://www.bms.com/investors/financial-reporting/sec-filings.html"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "VERTEX PHARMACEUTICALS INC",
+    "root_url": "http://www.vrtx.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.vrtx.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "PROLOGIS INC",
+    "root_url": "http://www.prologis.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.prologis.com",
+      "https://ir.prologis.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MCKESSON CORPORATION",
+    "root_url": "http://www.mckesson.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.mckesson.com",
+      "https://investor.mckesson.com/overview/default.aspx",
+      "https://investor.mckesson.com/financials/sec-filings/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "COMCAST CORP",
+    "root_url": "http://corporate.comcast.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://corporate.comcast.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "PALO ALTO NETWORKS INC",
+    "root_url": "http://www.paloaltonetworks.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.paloaltonetworks.com",
+      "https://investors.paloaltonetworks.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ADOBE INC",
+    "root_url": "http://www.adobe.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.adobe.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CME GROUP INCORPORATION",
+    "root_url": "http://www.cmegroup.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.cmegroup.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "STARBUCKS CORPORATION",
+    "root_url": "http://www.starbucks.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.starbucks.com",
+      "https://investor.starbucks.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "INTUIT INC",
+    "root_url": "http://www.intuit.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.intuit.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CROWDSTRIKE HOLDINGS INC",
+    "root_url": "http://ir.crowdstrike.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://ir.crowdstrike.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "NORTHROP GRUMMAN CORPORATION",
+    "root_url": "http://www.northropgrumman.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.northropgrumman.com",
+      "https://investor.northropgrumman.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SERVICENOW INC",
+    "root_url": "http://www.servicenow.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.servicenow.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "WESTERN DIGITAL CORPORATION",
+    "root_url": "http://www.westerndigital.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.westerndigital.com",
+      "https://investor.wdc.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AUTOMATIC DATA PROCESSING, INC.",
+    "root_url": "http://www.adp.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.adp.com",
+      "https://investors.adp.com/",
+      "https://investors.adp.com/financials/sec-filings/default.aspx",
+      "https://investors.adp.com/financials/sec-filings/sec-filings-details/default.aspx?FilingId=18917779"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "WASTE MANAGEMENT, INC.",
+    "root_url": "http://www.wm.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.wm.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MARRIOTT INTERNATIONAL, INC.",
+    "root_url": "http://www.marriott.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.marriott.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MARSH & MCLENNAN COMPANIES, INC.",
+    "root_url": "http://www.marshmclennan.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.marshmclennan.com",
+      "https://www.corporate.marsh.com/investors.html",
+      "https://www.corporate.marsh.com/investors.html",
+      "https://www.corporate.marsh.com/investors/reporting/sec-filings.html"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SANDISK CORP",
+    "root_url": "http://www.sandisk.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.sandisk.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "REGENERON PHARMACEUTICALS INCORPORATED",
+    "root_url": "http://www.regeneron.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.regeneron.com",
+      "https://investor.regeneron.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "WILLIAMS COMPANIES INC",
+    "root_url": "http://www.williams.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.williams.com",
+      "https://investor.williams.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "FREEPORT-MCMORAN INC",
+    "root_url": "http://www.fcx.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.fcx.com",
+      "http://investors.fcx.com/investors/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CONSTELLATION ENERGY CORP",
+    "root_url": "http://www.constellationenergy.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.constellationenergy.com",
+      "https://investors.constellationenergy.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "JOHNSON CONTROLS INTERNATIONAL PLC",
+    "root_url": "http://www.johnsoncontrols.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.johnsoncontrols.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "BROOKFIELD ASSET MANAGEMENT LTD",
+    "root_url": "http://bam.brookfield.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://bam.brookfield.com",
+      "mailto:bam.enquiries@brookfield.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "FEDEX CORPORATION",
+    "root_url": "http://www.fedex.com/en-us/home.html",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.fedex.com/en-us/home.html"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SYNOPSYS, INC.",
+    "root_url": "http://www.synopsys.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.synopsys.com",
+      "https://investor.synopsys.com/overview/default.aspx",
+      "https://investor.synopsys.com/financials/sec-filings/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MONSTER BEVERAGE CORP",
+    "root_url": "http://monsterbevcorp.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://monsterbevcorp.com",
+      "http://investors.monsterbevcorp.com/press-releases"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "O'REILLY AUTOMOTIVE, INC.",
+    "root_url": "http://corporate.oreillyauto.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://corporate.oreillyauto.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AMERICAN TOWER CORPORATION",
+    "root_url": "http://www.americantower.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.americantower.com",
+      "http://www.americantower.com/investor-relations"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "DELL TECHNOLOGIES INC",
+    "root_url": "http://www.dell.com/en-in",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.dell.com/en-in"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "GENERAL MOTORS COMPANY",
+    "root_url": "http://www.gm.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.gm.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MONDELEZ INTERNATIONAL INCORPORATED",
+    "root_url": "http://www.mondelezinternational.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.mondelezinternational.com",
+      "https://ir.mondelezinternational.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SLB NV",
+    "root_url": "http://www.slb.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.slb.com",
+      "https://investorcenter.slb.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ENTERPRISE PRODUCTS PARTNERS LP",
+    "root_url": "http://www.enterpriseproducts.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.enterpriseproducts.com",
+      "https://ir.enterpriseproducts.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "COLGATE-PALMOLIVE CO.",
+    "root_url": "http://www.colgatepalmolive.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.colgatepalmolive.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ROBINHOOD MARKETS INC",
+    "root_url": "http://robinhood.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://robinhood.com",
+      "https://investors.robinhood.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "TRANSDIGM GROUP INCORPORATED",
+    "root_url": "http://www.transdigm.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.transdigm.com",
+      "https://www.transdigm.com/investor-relations/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "HILTON WORLDWIDE HOLDINGS INC",
+    "root_url": "http://www.hilton.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.hilton.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CENCORA INC",
+    "root_url": "http://www.cencora.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.cencora.com",
+      "https://investor.cencora.com/",
+      "https://investor.cencora.com/financials/sec-filings/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MOTOROLA SOLUTIONS INCORPORATION",
+    "root_url": "http://www.motorolasolutions.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.motorolasolutions.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "REPUBLIC SERVICES, INC.",
+    "root_url": "http://www.republicservices.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.republicservices.com",
+      "https://investor.republicservices.com/investor-overview?c=82381&p=irol-irhome"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MARVELL TECHNOLOGY INC",
+    "root_url": "http://www.marvell.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.marvell.com",
+      "https://investor.marvell.com/?src=main"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "VMWARE LLC",
+    "root_url": "http://www.vmware.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.vmware.com",
+      "https://www.broadcom.com/",
+      "https://www.broadcom.com/company",
+      "https://investors.broadcom.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "PACCAR INC",
+    "root_url": "http://www.paccar.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.paccar.com",
+      "https://investors.paccar.com/overview/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SIMON PROPERTY GROUP INC",
+    "root_url": "http://www.simon.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.simon.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "MEDLINE INC",
+    "root_url": "http://ir.medline.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://ir.medline.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AIR PRODUCTS AND CHEMICALS INC",
+    "root_url": "http://www.airproducts.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.airproducts.com",
+      "https://investors.airproducts.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ROSS STORES INCORPORATED",
+    "root_url": "http://www.rossstores.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.rossstores.com",
+      "https://investors.rossstores.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "FORTINET INCORPORATION",
+    "root_url": "http://www.fortinet.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.fortinet.com",
+      "https://investor.fortinet.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AUTOZONE, INC.",
+    "root_url": "http://www.autozone.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.autozone.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ENERGY TRANSFER LP",
+    "root_url": "http://www.energytransfer.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.energytransfer.com",
+      "https://www.energytransfer.com/investor-relations/",
+      "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-lp-files-2025-annual-report"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "DIGITAL REALTY TRUST, INC.",
+    "root_url": "http://www.digitalrealty.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.digitalrealty.com",
+      "https://investor.digitalrealty.com/overview/default.aspx"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "REALTY INCOME CORPORATION",
+    "root_url": "http://www.realtyincome.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.realtyincome.com",
+      "http://www.realtyincome.com/investors"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CLOUDFLARE INC",
+    "root_url": "http://www.cloudflare.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.cloudflare.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "FORD MOTOR COMPANY",
+    "root_url": "http://www.ford.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.ford.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CARVANA CO",
+    "root_url": "http://www.carvana.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.carvana.com",
+      "https://investors.carvana.com",
+      "https://investors.carvana.com/financial-reports/sec-filings"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "SEMPRA",
+    "root_url": "http://www.sempra.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.sempra.com",
+      "http://www.sempra.com/investors"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "WW GRAINGER INC",
+    "root_url": "http://www.grainger.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.grainger.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ALLSTATE CORP",
+    "root_url": "http://www.allstateinvestors.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.allstateinvestors.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AMETEK INC",
+    "root_url": "http://www.ametek.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.ametek.com",
+      "https://investors.ametek.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CARDINAL HEALTH, INC.",
+    "root_url": "http://www.cardinalhealth.com/en.html",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.cardinalhealth.com/en.html"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ONEOK INC",
+    "root_url": "http://www.oneok.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.oneok.com",
+      "https://ir.oneok.com/",
+      "https://ir.oneok.com/financial-information/sec-filings"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "AUTODESK, INC.",
+    "root_url": "http://www.autodesk.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.autodesk.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "TARGET CORPORATION",
+    "root_url": "http://corporate.target.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://corporate.target.com",
+      "https://corporate.target.com/investors",
+      "https://corporate.target.com/investors",
+      "https://corporate.target.com/investors/sec-filings"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CHIPOTLE MEXICAN GRILL INC",
+    "root_url": "http://www.chipotle.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.chipotle.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "HALEON PLC - ADR",
+    "root_url": "http://www.haleon.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.haleon.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "NASDAQ INC",
+    "root_url": "http://www.nasdaq.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.nasdaq.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "DIAMONDBACK ENERGY INC",
+    "root_url": "http://ir.diamondbackenergy.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://ir.diamondbackenergy.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "CORTEVA INC",
+    "root_url": "http://www.corteva.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.corteva.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "HERSHEY CO",
+    "root_url": "http://www.thehersheycompany.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.thehersheycompany.com",
+      "https://investors.thehersheycompany.com/en_us/home.html",
+      "https://investors.thehersheycompany.com/en_us/home/reports-and-filings/sec-and-section-16-filings.html",
+      "http://phx.corporate-ir.net/phoenix.zhtml?c=115590&p=irol-sec"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ASE TECHNOLOGY HOLDING CO LTD",
+    "root_url": "http://www.aseglobal.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.aseglobal.com",
+      "https://ir.aseglobal.com/html/index.php",
+      "https://ir.aseglobal.com/html/ir_sec.php"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ROCKWELL AUTOMATION, INC.",
+    "root_url": "http://www.rockwellautomation.com/en-in.html",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.rockwellautomation.com/en-in.html",
+      "https://www.rockwellautomation.com/en-in/company/investor-relations.html",
+      "https://www.rockwellautomation.com/en-in/company/investor-relations/sec-filings.html"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "TARGA RESOURCES CORP",
+    "root_url": "http://www.targaresources.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.targaresources.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "OCCIDENTAL PETROLEUM CORPORATION",
+    "root_url": "http://www.oxy.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.oxy.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "ELECTRONIC ARTS, INC.",
+    "root_url": "http://www.ea.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.ea.com"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "D.R. HORTON INC",
+    "root_url": "http://www.drhorton.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.drhorton.com",
+      "https://investor.drhorton.com/",
+      "https://investor.drhorton.com/financial-information/sec-filings"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "HEICO CORPORATION",
+    "root_url": "http://www.heico.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.heico.com",
+      "https://heico.com/investors/",
+      "https://heico.com/investors/",
+      "https://heicocorporation.gcs-web.com/"
+    ],
+    "doc_url": ""
+  },
+  {
+    "company": "EXELON CORPORATION",
+    "root_url": "http://www.exeloncorp.com",
+    "document_type": "Form 10-K",
+    "status": "failed",
+    "link_trace": [
+      "http://www.exeloncorp.com",
+      "https://investors.exeloncorp.com/"
+    ],
+    "doc_url": ""
+  }
+]
